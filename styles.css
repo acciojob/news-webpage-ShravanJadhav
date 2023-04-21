@@ -15,20 +15,20 @@ div{
 	padding:10px;
 	border:10px;
 }
-.box1{
+.latest-news-section{
 	margin:20px;
 	width:300px;
 }
 
-.box2{
+.main-article{
 	margin-left:350px;
-	margin-top:-190px; 
+	margin-top:-170px; 
 	width:500px;
 }
 
-.box3{
+.pictorial-news-section{
 	margin-left:880px;
-	margin-top:-260px;
+	margin-top:-240px;
 	width:400px;
 }
 img{
